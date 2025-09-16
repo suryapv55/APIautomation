@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Allure and pytest reports
+allure-results/
+allure-report/
+*.html
+*.xml
+*.json
+
+# Logs
+*.log
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Build artifacts
+dist/
+build/
+.eggs/
+*.egg-info/
